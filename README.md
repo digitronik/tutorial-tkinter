@@ -26,3 +26,9 @@ The Tkinter is standard python module for GUI creation with Tk GUI toolkit. Tkin
  sudo apt-get install python3-tk
 ```
 - Other modules realted to tkinter on [pypi](https://pypi.python.org/pypi?%3Aaction=search&term=tkinter)
+
+3. Install Jupyter:
+```{r, engine='python', count_lines}
+ pip install jupyter
+```
+
