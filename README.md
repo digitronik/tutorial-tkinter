@@ -18,7 +18,7 @@ The Tkinter is standard python module for GUI creation with Tk GUI toolkit. Tkin
 
 - For Fedora
 ```{r, engine='bash', count_lines}
- sudo yum install python3-tkinter
+ sudo yum install python3-tkinter tk-devel
 ```
 
 - For Ubuntu
